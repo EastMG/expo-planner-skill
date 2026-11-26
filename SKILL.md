@@ -80,5 +80,5 @@ metadata:
 
 ---
 
-**工具与坑**（取数用哪些工具、每个环节容易翻车的地方）统一记在 [references/toolbox.md](references/toolbox.md)，本文件不再重复。
+**工具与坑**（找信息用哪些工具、每个环节容易翻车的地方）统一记在 [references/toolbox.md](references/toolbox.md)，本文件不再重复。
 输出骨架见 [references/output-template.md](references/output-template.md)。
