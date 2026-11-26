@@ -1,4 +1,4 @@
-# expo-planner
+# expo-planner-skill
 
 给线下展会做观展规划的 Agent Skill：**游戏嘉年华 / 漫展 / FES / 音乐会 / 签售会**。
 
@@ -42,10 +42,10 @@
 
 ```bash
 # DeepSeek Harness
-~/.dsh/skills/expo-planner/
+~/.dsh/skills/expo-planner-skill/
 
 # 通用 Agent Skills 目录
-~/.agents/skills/expo-planner/
+~/.agents/skills/expo-planner-skill/
 ```
 
 拷完后 agent 会在遇到「展会 / 漫展 / FES / 嘉年华 / 通勤 / 末班车 / 嘉宾行程」这类请求时自动加载。
@@ -64,7 +64,7 @@ references/toolbox.md          # 工具清单 + 各环节的坑（集中一处�
 
 ## 用法
 
-> 帮我按 expo-planner 规划 <展会名>，票是 <日期/票种>，从 <住址> 出发
+> 帮我按 expo-planner-skill 规划 <展会名>，票是 <日期/票种>，从 <住址> 出发
 
 或者直接描述场景：「周六周日去 XX 展会，帮我排通勤，再把场馆和嘉宾行程总结一下」。
 

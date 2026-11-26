@@ -1,13 +1,13 @@
 ---
-name: expo-planner
+name: expo-planner-skill
 display_name: "展会出行规划 — 通勤 / 场馆展位 / 嘉宾行程"
 description: 为线下展会（游戏嘉年华、漫展、FES、音乐会、签售会）输出三段式观展清单：通勤时间表、场馆展位、嘉宾与 coser 行程。核心是格式与写作约定——不替人排场内动线，只回答「几点必须出门、几点必须离场、哪个馆有什么、谁在哪天」。当用户说「帮我规划 XX 展会」「这几天要去 XX」「怎么去、几点到、谁在哪天」「看展攻略」「漫展/嘉年华/FES/音乐会 行程」时使用。触发词：展会、漫展、嘉年华、FES、音乐会、签售、场馆、展馆、展位、摊位、通勤、末班车、嘉宾行程、coser 行程、观展、入场时间。
 metadata:
-  version: 1.2.0
+  version: 1.3.0
   scope: user
 ---
 
-# expo-planner
+# expo-planner-skill
 
 一句话：**给清单和时间表，不排场内动线。**
 
